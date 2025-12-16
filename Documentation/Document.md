@@ -28,7 +28,14 @@ By organizing all these resources in a single, structured platform, the website 
 
 ### Key Features
 
----
+Curated Learning Paths: Structured tracks for Web Dev, AI, Psychology, Finance, and more.
+Top-Rated Resources: Handpicked playlists, courses, and books from multiple platforms in one place.
+Career Guidance: Role overviews, required skills, and step-by-step roadmaps for beginners.
+Smart Filtering: Filter by difficulty, content type, duration, and free/paid options.
+Clean & Responsive UI: Modern, user-friendly interface with smooth navigation.
+User Bookmarks: Save resources and track learning progress.
+Community Contributions: Open-source model for adding and updating high-quality resources.
+Multi-Domain Coverage: Supports tech, finance, psychology, self-help, and more.
 
 ### Tech Stack
 - Frontend development: Next.js (for building interactive UI and API routes)
