@@ -6,6 +6,7 @@
 - [Muhammad Jasim Javed](https://github.com/jasim-javed)
 - [Alishba Noor](https://github.com/alishba12-cs)
 - [Alishba Saboor](https://github.com/AlishbaSaboor)
+- [Syeda Tehreem Tasawar](https://github.com/tehreemtasawar)
 
 ## License
 
